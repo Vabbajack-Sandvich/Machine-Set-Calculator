@@ -45,7 +45,7 @@ I thought this was a useful tool for calculating machine through put that would 
 
 =================================
 
-This calculates through put like this:
+This calculates throughput like this:
 
 =================================
 
