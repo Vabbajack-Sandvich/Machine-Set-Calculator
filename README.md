@@ -7,6 +7,8 @@ TLDR: This makes it easy to change the numbers around until you get the percent 
 
 Windows Scaling Issue Fix:
 
+This is a Windows issue and not a program issue.
+
 =================================
 
 
@@ -25,6 +27,8 @@ set the drop down box to "when i signed in to windows"
 check the "override high dpi scaling behavior"
 
 select "application" from the drop down box
+
+click ok, click ok, start the program to check to see if it fixed it
 
 
 
