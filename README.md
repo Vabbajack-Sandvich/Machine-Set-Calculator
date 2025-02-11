@@ -2,8 +2,33 @@
 
 TLDR: This makes it easy to change the numbers around until you get the percent you want.
 
+
 =================================
 
+Windows Scaling Issue Fix:
+
+=================================
+
+
+right click the exe or shortcut
+
+click properties
+
+click the compatability tab
+
+click change high dpi settings
+
+check the "use this setting to fix scaling problems" check box
+
+set the drop down box to "when i signed in to windows"
+
+check the "override high dpi scaling behavior"
+
+select "application" from the drop down box
+
+
+
+=================================
 
 This is a stand alone simple calculator instead of a mod. Mods have to the potential to break because of updates, be abandoned etc etc etc. So, because of that, I made a simple stand alone calculator that you can alt tab to.
 
