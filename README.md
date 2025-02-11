@@ -2,6 +2,7 @@
 
 TLDR: This makes it easy to change the numbers around until you get the percent you want.
 
+TLDR2: Hitting enter while the cursor is in the text boxes will automatically calculate and copy the resulting percentage to the clipboard for easy pasting in the game.
 
 =================================
 
