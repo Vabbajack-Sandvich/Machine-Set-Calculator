@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj": {}
+    "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj": {}
   },
   "projects": {
-    "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj": {
+    "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+        "projectUniqueName": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj",
         "projectName": "Machine Set Calculator",
-        "projectPath": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+        "projectPath": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj",
         "packagesPath": "C:\\Users\\zonid\\.nuget\\packages\\",
-        "outputPath": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\obj\\",
+        "outputPath": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -31,3 +31,20 @@ D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Debug\net8.0-windows\Mach
 D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.genruntimeconfig.cache
 D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Debug\net8.0-windows\ref\Machine Set Calculator.dll
 D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Debug\net8.0-windows\Machine_Set_Calculator.Form2.resources
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\bin\Debug\net8.0-windows\Machine Set Calculator.exe
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\bin\Debug\net8.0-windows\Machine Set Calculator.deps.json
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\bin\Debug\net8.0-windows\Machine Set Calculator.runtimeconfig.json
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\bin\Debug\net8.0-windows\Machine Set Calculator.dll
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\bin\Debug\net8.0-windows\Machine Set Calculator.pdb
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine_Set_Calculator.Form1.resources
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine_Set_Calculator.Form2.resources
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.vbproj.GenerateResource.cache
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.AssemblyInfoInputs.cache
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.AssemblyInfo.vb
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.vbproj.CoreCompileInputs.cache
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.dll
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\refint\Machine Set Calculator.dll
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.pdb
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\Machine Set Calculator.genruntimeconfig.cache
+D:\vabbajack_sandvich\code\vb.net\Machine-Set-Calculator\Machine Set Calculator-Source\Machine Set Calculator\obj\Debug\net8.0-windows\ref\Machine Set Calculator.dll

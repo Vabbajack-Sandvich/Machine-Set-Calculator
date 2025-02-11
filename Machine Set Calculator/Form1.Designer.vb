@@ -164,9 +164,9 @@ Partial Class Form1
         ' lbDefault
         ' 
         lbDefault.BackColor = Color.Black
-        lbDefault.Font = New Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lbDefault.Font = New Font("Arial", 10.2F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         lbDefault.ForeColor = Color.DarkGray
-        lbDefault.Location = New Point(12, 121)
+        lbDefault.Location = New Point(12, 113)
         lbDefault.Name = "lbDefault"
         lbDefault.Size = New Size(489, 59)
         lbDefault.TabIndex = 12
@@ -179,7 +179,7 @@ Partial Class Form1
         lbAbout.ForeColor = Color.DarkGray
         lbAbout.Location = New Point(12, 9)
         lbAbout.Name = "lbAbout"
-        lbAbout.Size = New Size(489, 112)
+        lbAbout.Size = New Size(489, 85)
         lbAbout.TabIndex = 13
         lbAbout.Text = "By: Vabbajack Sandvich" & vbCrLf & "youtube channel:" & vbCrLf & "https://www.youtube.com/channel/UChdR92IoNqHnvXJ4hTwuwLg" & vbCrLf & "double click to copy link" & vbCrLf
         lbAbout.TextAlign = ContentAlignment.MiddleCenter

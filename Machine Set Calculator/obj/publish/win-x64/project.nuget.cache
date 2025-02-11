@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Ws5j1cIAS4=",
+  "dgSpecHash": "bcNZYA2CVMw=",
   "success": true,
-  "projectFilePath": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+  "projectFilePath": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\zonid\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
     "C:\\Users\\zonid\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.11\\microsoft.netcore.app.runtime.win-x64.8.0.11.nupkg.sha512",
