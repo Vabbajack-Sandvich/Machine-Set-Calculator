@@ -1,0 +1,33 @@
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.exe
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.deps.json
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.runtimeconfig.json
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.pdb
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.vbproj.GenerateResource.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.AssemblyInfoInputs.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.AssemblyInfo.vb
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.vbproj.CoreCompileInputs.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\refint\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.pdb
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.genruntimeconfig.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\ref\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\win-x64\Machine_Set_Calculator.Form1.resources
+D:\zonide\CODE\visualstudio\Machine Set Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.exe
+D:\zonide\CODE\visualstudio\Machine Set Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.deps.json
+D:\zonide\CODE\visualstudio\Machine Set Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.runtimeconfig.json
+D:\zonide\CODE\visualstudio\Machine Set Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Machine Set Calculator\bin\Release\net8.0-windows\win-x64\Machine Set Calculator.pdb
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine_Set_Calculator.Form1.resources
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine_Set_Calculator.Form2.resources
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.vbproj.GenerateResource.cache
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.AssemblyInfoInputs.cache
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.AssemblyInfo.vb
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.vbproj.CoreCompileInputs.cache
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\refint\Machine Set Calculator.dll
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.pdb
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\Machine Set Calculator.genruntimeconfig.cache
+D:\zonide\CODE\visualstudio\Machine Set Calculator\obj\Release\net8.0-windows\win-x64\ref\Machine Set Calculator.dll

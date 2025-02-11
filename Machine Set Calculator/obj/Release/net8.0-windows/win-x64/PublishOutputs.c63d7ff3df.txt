@@ -1,0 +1,5 @@
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Blueprint Cube Calculator.exe
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Blueprint Cube Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Blueprint Cube Calculator.deps.json
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Blueprint Cube Calculator.runtimeconfig.json
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Blueprint Cube Calculator.pdb

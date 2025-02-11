@@ -1,0 +1,16 @@
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\Blueprint Cube Calculator.exe
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\Blueprint Cube Calculator.deps.json
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\Blueprint Cube Calculator.runtimeconfig.json
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\Blueprint Cube Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\bin\Release\net8.0-windows\Blueprint Cube Calculator.pdb
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint_Cube_Calculator.Form1.resources
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.vbproj.GenerateResource.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.AssemblyInfoInputs.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.AssemblyInfo.vb
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.vbproj.CoreCompileInputs.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\refint\Blueprint Cube Calculator.dll
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.pdb
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\Blueprint Cube Calculator.genruntimeconfig.cache
+D:\zonide\CODE\visualstudio\Blueprint Cube Calculator\obj\Release\net8.0-windows\ref\Blueprint Cube Calculator.dll

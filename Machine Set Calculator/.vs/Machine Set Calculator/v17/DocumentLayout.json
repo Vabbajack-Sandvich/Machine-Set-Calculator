@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\machine set calculator.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:machine set calculator.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:my project\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\machine set calculator.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:machine set calculator.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\vabbajacksandvich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:vabbajacksandvich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\zonide\\code\\visualstudio\\machine set calculator\\my project\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:my project\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T19:32:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T19:31:39.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\My Project\\app.manifest",
+              "RelativeDocumentMoniker": "My Project\\app.manifest",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\My Project\\app.manifest",
+              "RelativeToolTip": "My Project\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-02-11T18:56:31.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Machine Set Calculator.vbproj",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+              "RelativeDocumentMoniker": "Machine Set Calculator.vbproj",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+              "RelativeToolTip": "Machine Set Calculator.vbproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-02-11T18:43:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\My Project\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "My Project\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\My Project\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "My Project\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-11T18:38:42.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-11T18:37:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Machine Set Calculator",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+              "RelativeDocumentMoniker": "Machine Set Calculator.vbproj",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Machine Set Calculator.vbproj",
+              "RelativeToolTip": "Machine Set Calculator.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-02-11T18:37:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vabbajacksandvich.vb",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\vabbajacksandvich.vb",
+              "RelativeDocumentMoniker": "vabbajacksandvich.vb",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\vabbajacksandvich.vb",
+              "RelativeToolTip": "vabbajacksandvich.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-25T17:30:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAANEAAAAAAAAAAIAwwNgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-25T17:27:42.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\zonide\\CODE\\visualstudio\\Machine Set Calculator\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-25T17:20:57.011Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
