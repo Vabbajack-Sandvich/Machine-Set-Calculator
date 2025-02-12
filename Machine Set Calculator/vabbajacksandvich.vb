@@ -6,38 +6,6 @@
     ' i use it between projects so its got some random other crap in it
     ' thats not related to this project
 
-    Public Structure POINTAPI
-        Public X1 As Long
-        Public Y1 As Long
-    End Structure
-
-    Public zQ As String = Chr(34)
-
-    Public zTf2Class As String = "engineer"
-
-    Public Declare Function GetCursorPos Lib "user32" (lpPoint As POINTAPI) As Long
-    Public Declare Function ScreenToClient Lib "user32" (ByVal hWnd As Long, lpPoint As POINTAPI) As Long
-
-    Function MouseX(Optional ByVal hWnd As Long = 0) As Long
-        ' Get mouse X coordinates in pixels
-        ' If a window handle is passed, the result is relative to the client area
-        ' of that window, otherwise the result is relative to the screen
-        Dim lpPoint As POINTAPI
-        GetCursorPos(lpPoint)
-        If hWnd Then ScreenToClient(hWnd, lpPoint)
-        MouseX = lpPoint.X1
-    End Function
-
-    Function MouseY(Optional ByVal hWnd As Long = 0) As Long
-        ' Get mouse Y coordinates in pixels
-        ' If a window handle is passed, the result is relative to the client area
-        ' of that window, otherwise the result is relative to the screen
-        Dim lpPoint As POINTAPI
-        GetCursorPos(lpPoint)
-        If hWnd Then ScreenToClient(hWnd, lpPoint)
-        MouseY = lpPoint.Y1
-    End Function
-
     Public Function zNumFilter(zNf As String) As String
         'this filters out any characters that arent 0 through 9
         'it leaves them in the original order
@@ -279,26 +247,6 @@
         zAlphaNumFilterWithDashPlus = zANfos
     End Function
 
-    Public Sub zClearCheckListBoxChecks(zCkLb As CheckedListBox, Optional zIndex As Integer = -1)
-        'cklbOtherBotCmd
-        'this clears all the checks in the check list box
-        'if the index is specfied then it will ignore clearing that index
-        'adding the optional means i dont have to change the retro active usages
-        Dim zCount As Integer
-        zCount = zCkLb.Items.Count
-        If zCount = 0 Then Exit Sub
-        Dim zCycle As Integer
-        zCycle = 0
-        For zCycle = 0 To zCount - 1
-            If zIndex = -1 Then
-                zCkLb.SetItemChecked(zCycle, False)
-            Else
-                If zCycle <> zIndex Then
-                    zCkLb.SetItemChecked(zCycle, False)
-                End If
-            End If
-        Next
-    End Sub
 
     Public Function zTrimLeadingZero(zTlzs As String) As String
         'filters out any characters but 0 to 9 using znumfilter
@@ -464,109 +412,6 @@
                 zList.Items.Add(zTstr)
             End If
         End If
-    End Function
-
-    Public Function zFormatTeleport(zList As ListBox, zList2 As ListBox, zTxtOut As TextBox, zBotName As TextBox, zEnumBots As CheckBox)
-
-        'this will go through each line and if it meets the format critera
-        'it will add that line
-        'if a line doesnt meet the criteria then it will skip it
-        'by not adding it
-        If zBotName.Text = vbNullString Then
-            zBotName.Text = "bot"
-        End If
-        If zList.Items.Count = 0 Then Exit Function
-        zList2.Items.Clear()
-        zTxtOut.Text = vbNullString
-        Dim zListI As Integer
-        Dim zLentry As String
-        Dim zSetpos As Integer, zSetang As Integer
-        'set pos
-        Dim zspSpace1 As Integer, zspSpace2 As Integer, zspSpace3 As Integer
-        'set angle
-        Dim zsaSpace1 As Integer, zsaSpace2 As Integer, zsaSpace3 As Integer
-        'teleport formatting
-        Dim zSemiColon As Integer
-        Dim zFirstHalf As String
-        Dim zSecondHalf As String
-        Dim zTp As String
-        Dim zTxtOutString As String
-
-        Dim zBotI As Integer
-        zBotI = 0
-
-        Dim zBNnolastchar As String
-
-        'go through each entry in the list
-        For zListI = 0 To zList.Items.Count - 1
-            'setpos -52.407482 662.477600 353.586365;setang 33.054932 -4.829772 0.000000
-            'thats how it comes out of the game using getpos
-            'thats the string i have to take apart
-
-            zLentry = zList.Items.Item(zListI)
-            zSetpos = InStr(1, zLentry, "setpos")
-            zSetang = InStr(1, zLentry, "setang")
-
-            If (zSetpos > 0) And (zSetang > 0) Then
-                'both exist
-                'test for further formatting stuff
-                'for setpos section
-                zspSpace1 = InStr(1, zLentry, " ")
-                zspSpace2 = InStr(zspSpace1 + 1, zLentry, " ")
-                zspSpace3 = InStr(zspSpace2 + 1, zLentry, " ")
-
-                zsaSpace1 = InStr(zspSpace3 + 1, zLentry, " ")
-                zsaSpace2 = InStr(zsaSpace1 + 1, zLentry, " ")
-                zsaSpace3 = InStr(zsaSpace2 + 1, zLentry, " ")
-
-                If (zspSpace1 > 0) And (zspSpace2 > 0) And (zspSpace3 > 0) And (zsaSpace1 > 0) And (zsaSpace2 > 0) And (zsaSpace3 > 0) Then
-                    'this should be a copy and pasted line from the console
-                    'setpos -52.407482 662.477600 353.586365;setang 33.054932 -4.829772 0.000000
-                    zSemiColon = InStr(1, zLentry, ";")
-                    'so starting from the first space
-                    If zSemiColon > 0 Then
-                        'to - 1 the semicolon
-                        'should be the first half of the teleport command
-                        'coordinates
-                        zFirstHalf = Mid(zLentry, zspSpace1 + 1, zSemiColon - 1 - zspSpace1)
-                        zSecondHalf = Mid(zLentry, zsaSpace1 + 1, Len(zLentry))
-                        'zList2.Items.Add(zFirstHalf)
-                        'zList2.Items.Add(zSecondHalf)
-
-                        'now that i have the first and second coordinates
-                        'make the teleport command
-                        'bot_teleport "hoovy1" -301.160034 -588.444153 78.468124 18.458006 15.540970 0.000000
-
-                        If zEnumBots.Checked = True Then
-                            'add the index to the end of the bot name text
-                            'quotes for bot
-                            'zTp = "bot_teleport " & zQ & zBotName.Text & zBotI & zQ & " " & zFirstHalf & " " & zSecondHalf
-                            'no quotes for bot
-                            'zTp = "bot_teleport " & zBotName.Text & zBotI & " " & zFirstHalf & " " & zSecondHalf
-
-                            zBNnolastchar = Mid(zBotName.Text, 1, Len(zBotName.Text) - 1)
-
-                            zTp = "bot_teleport " & zBNnolastchar & zBotI & " " & zFirstHalf & " " & zSecondHalf
-
-                            zBotI = zBotI + 1
-                        Else
-                            'dont enumerate bots
-                            'quotes for bot
-                            'zTp = "bot_teleport " & zQ & zBotName.Text & zQ & " " & zFirstHalf & " " & zSecondHalf
-                            'no quotes for bot
-                            zTp = "bot_teleport " & zBotName.Text & " " & zFirstHalf & " " & zSecondHalf
-                        End If
-
-                        zList2.Items.Add(zTp)
-
-                        zTxtOutString = zTxtOutString & zTp & vbCrLf
-                        'If zListI = (zList.Items.Count - 1) Then
-                        zTxtOut.Text = zTxtOutString
-                        'End If
-                    End If
-                End If
-            End If
-        Next
     End Function
 
 
