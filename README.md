@@ -2,13 +2,44 @@
 
 TLDR: This makes it easy to change the numbers around until you get the percent you want.
 
+TLDR2: Hitting enter while the cursor is in the text boxes will automatically calculate and copy the resulting percentage to the clipboard for easy pasting in the game.
+
 =================================
 
+Windows Scaling Issue Fix:
+
+This is a Windows issue and not a program issue.
+
+=================================
+
+
+right click the exe or shortcut
+
+click properties
+
+click the compatability tab
+
+click change high dpi settings
+
+check the "use this setting to fix scaling problems" check box
+
+set the drop down box to "when i signed in to windows"
+
+check the "override high dpi scaling behavior"
+
+select "application" from the drop down box
+
+click ok, click ok, start the program to check to see if it fixed it
+
+
+
+=================================
 
 This is a stand alone simple calculator instead of a mod. Mods have to the potential to break because of updates, be abandoned etc etc etc. So, because of that, I made a simple stand alone calculator that you can alt tab to.
 
 =================================
 
+I will fix errors.
 
 I don't plan on maintaining this past it's usefulness.
 
@@ -20,7 +51,7 @@ I thought this was a useful tool for calculating machine through put that would 
 
 =================================
 
-This calculates through put like this:
+This calculates throughput like this:
 
 =================================
 
