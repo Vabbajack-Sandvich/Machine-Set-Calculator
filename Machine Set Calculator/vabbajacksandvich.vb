@@ -342,6 +342,51 @@
         End If
     End Function
 
+    Public Function zTrimLeadingZero2(zTlzs As String) As String
+        'filters out any characters but 0 to 9 using znumfilter
+        'then returns a whole number without any potential leading zeros
+        'this version returns nothing instead of zero
+        zTlzs = zNumFilter(zTlzs)
+        If zTlzs = "" Then
+            'zTlzs = "0"
+            zTlzs = ""
+            Return zTlzs
+        Else
+            Dim zTcfc As String
+            Dim zTs As String
+            Dim zSetPass As Boolean
+            Dim zTsL As Long
+
+            zTs = zTlzs
+            zSetPass = False
+
+            Do
+                'this filters out as many potential leading 0s
+                'and trims the output to a whole number
+                zTsL = Len(zTs)
+                If zTsL > 1 Then
+                    zTcfc = Mid(zTs, 1, 1)
+                    If zTcfc = "0" Then
+                        zTs = Mid(zTs, 2, zTsL - 1)
+                    Else
+                        zSetPass = True
+                    End If
+                ElseIf zTsL = 1 Then
+                    zSetPass = True
+                Else
+                    zTlzs = "0"
+                    Return zTlzs
+                    Exit Function
+                End If
+
+            Loop Until zSetPass = True
+
+            zTlzs = zTs
+            Return zTlzs
+        End If
+    End Function
+
+
     Public Function zTextLinesToListbox(zTxt As TextBox, zList As ListBox, Optional zListClear As Integer = 0)
         'this assumes that whichever text or list box exists
         'and is correct

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\vabbajacksandvich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:vabbajacksandvich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -19,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\machine set calculator.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:machine set calculator.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\vabbajacksandvich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|solutionrelative:vabbajacksandvich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{344CD97A-C191-4776-8EDE-E30757F82A67}|Machine Set Calculator.vbproj|d:\\vabbajack_sandvich\\code\\vb.net\\machine-set-calculator\\machine set calculator-source\\machine set calculator\\my project\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form2.vb",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Form2.vb",
               "RelativeDocumentMoniker": "Form2.vb",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form2.vb [Design]",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Form2.vb",
               "RelativeDocumentMoniker": "Form2.vb",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "app.manifest",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\My Project\\app.manifest",
               "RelativeDocumentMoniker": "My Project\\app.manifest",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Machine Set Calculator.vbproj",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj",
               "RelativeDocumentMoniker": "Machine Set Calculator.vbproj",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.vb",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Form1.Designer.vb",
               "RelativeDocumentMoniker": "Form1.Designer.vb",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Machine Set Calculator",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Machine Set Calculator.vbproj",
               "RelativeDocumentMoniker": "Machine Set Calculator.vbproj",
@@ -138,32 +138,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "vabbajacksandvich.vb",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\vabbajacksandvich.vb",
               "RelativeDocumentMoniker": "vabbajacksandvich.vb",
               "ToolTip": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\vabbajacksandvich.vb",
               "RelativeToolTip": "vabbajacksandvich.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAC0BAAAAAAAAAADwvzMBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-01-25T17:30:42.857Z"
+              "WhenOpened": "2025-01-25T17:30:42.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAANEAAAAAAAAAAIAwwNgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-25T17:27:42.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\vabbajack_sandvich\\code\\vb.net\\Machine-Set-Calculator\\Machine Set Calculator-Source\\Machine Set Calculator\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",

@@ -6,11 +6,27 @@
 
     Public Sub zSanitizeTextboxes()
         'zNumFilter()
-        txtPPM.Text = zNumFilter(txtPPM.Text)
-        txtNumMachines.Text = zNumFilter(txtNumMachines.Text)
-        txtCalcCubeBase.Text = zNumFilter(txtCalcCubeBase.Text)
-        txtNewIO.Text = zNumFilter(txtNewIO.Text)
-        txtConverted.Text = zNumFilter(txtConverted.Text)
+        'txtPPM.Text = zNumFilter(txtPPM.Text)
+        'txtNumMachines.Text = zNumFilter(txtNumMachines.Text)
+        'txtCalcCubeBase.Text = zNumFilter(txtCalcCubeBase.Text)
+        'txtNewIO.Text = zNumFilter(txtNewIO.Text)
+        'txtConverted.Text = zNumFilter(txtConverted.Text)
+
+        'trim leading zeros
+        'which includes znumfilter
+
+        'zTrimLeadingZero()
+        txtPPM.Text = zTrimLeadingZero2(txtPPM.Text)
+        txtNumMachines.Text = zTrimLeadingZero2(txtNumMachines.Text)
+        txtCalcCubeBase.Text = zTrimLeadingZero2(txtCalcCubeBase.Text)
+        txtNewIO.Text = zTrimLeadingZero2(txtNewIO.Text)
+        txtConverted.Text = zTrimLeadingZero2(txtConverted.Text)
+
+        If txtPPM.Text = "0" Then txtPPM.Text = "60"
+        If txtNumMachines.Text = "0" Then txtNumMachines.Text = "15"
+        If txtCalcCubeBase.Text = "0" Then txtCalcCubeBase.Text = "900"
+        If txtNewIO.Text = "0" Then txtNewIO.Text = "540"
+        If txtConverted.Text = "0" Then txtConverted.Text = "60"
 
         'txtPPM.Text
         'txtNumMachines.Text
