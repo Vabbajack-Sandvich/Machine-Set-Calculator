@@ -322,7 +322,8 @@
                 ElseIf zTsL = 1 Then
                     zSetPass = True
                 Else
-                    zTlzs = "0"
+                    'zTlzs = "0"
+                    zTlzs = ""
                     Return zTlzs
                     Exit Function
                 End If
