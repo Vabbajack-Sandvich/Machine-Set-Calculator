@@ -335,7 +335,56 @@
         End If
     End Function
 
+    Public Function zTrimDecimals(zTrimDec As String) As String
+        'this scans the input for decimals
+        'if it finds one it keeps the place of that decimal
+        'but ignores all the rest and reformats the string with only the fist found one
+        'if the only returned string is a single decimal it will return nothing
 
+        Dim zFirstFound As Boolean = False
+
+        If zTrimDec = vbNullString Then
+            zTrimDecimals = vbNullString
+            Exit Function
+        End If
+
+        Dim zTempTD As String
+
+        zTempTD = LCase(zTrimDec)
+
+        Dim zANfi As Integer
+        Dim zANfos As String
+        Dim zANfl As Integer
+        Dim zANfis As String
+        zANfl = Len(zTempTD)
+        For zANfi = 1 To zANfl
+            zANfis = Mid(zTempTD, zANfi, 1)
+            If zANfis = "." And zFirstFound = False Then
+                'its a decimal and the tracker is false
+                zANfos = zANfos & "."
+                zFirstFound = True
+            ElseIf zANfis <> "." Then
+                'its not a decimal
+                'tracker doesnt matter
+                zANfos = zANfos & zANfis
+            ElseIf zANfis = "." And zFirstFound = True Then
+                'it found a decimal and the tracker has already found one
+                'basically do nothing
+                'arguably not needed
+                zANfos = zANfos
+            End If
+        Next
+
+        If zANfos = "." Then
+            'the whole string was just a decimal
+            'return nothing
+            zTrimDecimals = vbNullString
+            Exit Function
+        Else
+            zTrimDecimals = zANfos
+        End If
+
+    End Function
     Public Function zTextLinesToListbox(zTxt As TextBox, zList As ListBox, Optional zListClear As Integer = 0)
         'this assumes that whichever text or list box exists
         'and is correct

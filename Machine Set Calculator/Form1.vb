@@ -34,6 +34,13 @@
         'txtNewIO.Text
         'txtConverted.Text
 
+        'trim the excess decimals if there are any
+        txtPPM.Text = zTrimDecimals(txtPPM.Text)
+        txtNumMachines.Text = zTrimDecimals(txtNumMachines.Text)
+        txtCalcCubeBase.Text = zTrimDecimals(txtCalcCubeBase.Text)
+        txtNewIO.Text = zTrimDecimals(txtNewIO.Text)
+        txtConverted.Text = zTrimDecimals(txtConverted.Text)
+
         'these numbers are for a 15 x steel beam input setup
         'ppm
         '60
@@ -43,7 +50,7 @@
         '900
         'new input
         '540
-        'converted percent value for each machien
+        'converted percent value for each machine
         '60
 
         If txtPPM.Text = vbNullString Then txtPPM.Text = "60"
