@@ -16,6 +16,14 @@ if its above 250% you need more machines
 
 if its below 100% you need less machines
 
+in either case you set all of the machines to the output percent
+
+which makes the total throughput equal the new input
+
+if you set one machine to the output percent then multiplied its new parts per minute value by the number of machines
+
+you would see it equals the new desired input / output value
+
 
 =================================
 
