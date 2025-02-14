@@ -14,7 +14,7 @@ this tells you, based on the output percent how much you need to overclock or un
 
 if its above 250% you need more machines
 
-if its way below 100% you need less machines
+if its below 100% you need less machines
 
 
 =================================
