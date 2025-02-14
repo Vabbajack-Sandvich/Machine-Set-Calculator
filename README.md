@@ -4,6 +4,14 @@ TLDR: This makes it easy to change the numbers around until you get the percent 
 
 TLDR2: Hitting enter while the cursor is in the text boxes will automatically calculate and copy the resulting percentage to the clipboard for easy pasting in the game.
 
+TLDR3:
+you can use input or output parts per minute, because you can make changes to machine sets based on either of those
+typically you use input parts per minute for 1 single machine recipe
+this tells you, based on the output percent how much you need to overclock or underclock every machine in a set
+if its above 250% you need more machines
+if its way below 100% you need less machines
+
+
 =================================
 
 Windows Scaling Issue Fix:
