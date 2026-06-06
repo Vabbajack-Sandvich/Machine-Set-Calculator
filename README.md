@@ -1,3 +1,5 @@
+![example 1](https://github.com/Vabbajack-Sandvich/Machine-Set-Calculator/blob/main/machine-set-calculator-0.png?raw=true)
+
 # Machine Set Calculator
 
 TLDR: This makes it easy to change the numbers around until you get the percent you want.
