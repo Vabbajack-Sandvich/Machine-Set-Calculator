@@ -1,4 +1,4 @@
-![example 1](https://github.com/Vabbajack-Sandvich/Machine-Set-Calculator/blob/main/machine-set-calculator-0.png?raw=true)
+![example 1](https://github.com/Vabbajack-Sandvich/Machine-Set-Calculator/blob/main/machine-set-calculator-1.png?raw=true)
 
 # Machine Set Calculator
 
