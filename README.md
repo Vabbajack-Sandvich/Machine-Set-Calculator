@@ -34,23 +34,23 @@ This is a Windows issue and not a program issue.
 
 =================================
 
-right click the exe or shortcut
+Right-click the exe or shortcut.
 
-click properties
+Click properties.
 
-click the compatability tab
+Click the compatibility tab.
 
-click change high dpi settings
+Click Change High DPI Settings.
 
-check the "use this setting to fix scaling problems" check box
+Check the "Use this setting to fix scaling problems" check box.
 
-set the drop down box to "when i signed in to windows"
+Set the drop-down box to "when I signed in to Windows."
 
-check the "override high dpi scaling behavior"
+Check the "override high DPI scaling behavior."
 
-select "application" from the drop down box
+Select "application" from the drop-down box.
 
-click ok, click ok, start the program to check to see if it fixed it
+Click ok, click ok, start the program to check to see if it fixed it.
 
 =================================
 
