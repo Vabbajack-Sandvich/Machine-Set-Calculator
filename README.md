@@ -6,37 +6,33 @@ TLDR: This makes it easy to change the numbers around until you get the percent 
 
 TLDR2: Hitting enter while the cursor is in the text boxes will automatically calculate and copy the resulting percentage to the clipboard for easy pasting in the game.
 
-TLDR3:
+TLDR3: Still Less reading than the long version.
 
-you can use input or output parts per minute, because you can make changes to machine sets based on either of those
+You can use input or output parts per minute, because you can make changes to machine sets based on either of those.
 
-typically you use input parts per minute for 1 single machine recipe
+Typically, you use input parts per minute for 1 single machine recipe.
 
-this tells you, based on the output percent how much you need to overclock or underclock every machine in a set
+This tells you, based on the output percent, how much you need to overclock or underclock every machine in a set.
 
-if its above 250% you need more machines
+If it's above 250%, you need more machines.
 
-if its below 100% you need less machines
+If it's below 100%, you need fewer machines. In either case, you set all of the machines to the output percent.
 
-in either case you set all of the machines to the output percent
+This makes the total throughput equal the new input.
 
-which makes the total throughput equal the new input
+To check to see what I mean:
 
-to check to see what i mean:
+Set one machine to the output percent, then multiply its new parts per minute value by the number of machines.
 
-set one machine to the output percent then multiply its new parts per minute value by the number of machines
-
-you would see it equals the new desired input / output value
-
+You would see it equals the new desired input/output value.
 
 =================================
 
-Windows Scaling Issue Fix:
+# Windows Scaling Issue Fix:
 
 This is a Windows issue and not a program issue.
 
 =================================
-
 
 right click the exe or shortcut
 
@@ -55,8 +51,6 @@ check the "override high dpi scaling behavior"
 select "application" from the drop down box
 
 click ok, click ok, start the program to check to see if it fixed it
-
-
 
 =================================
 
@@ -80,7 +74,6 @@ This calculates throughput like this:
 
 =================================
 
-
 p = individual machine parts per minute number
 
 n = number of machines in the set
@@ -96,3 +89,4 @@ o = output percent to set each machine in the set to
 b = p * n
 
 o = (d / b) * 100
+
