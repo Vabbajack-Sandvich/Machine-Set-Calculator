@@ -4,7 +4,7 @@
 
 TLDR0: Sets every machine in the blueprint to 100% efficiency based on input ppm by copy and pasting the same percent in to every machine.
 
-TLDR1: Makes it easy to adjust for new inputs or upgrades by placing the same blueprint and changing the number of machines in the calculator and hitting enter. Auto copies the percent to the clipboard.
+TLDR1: Makes it easy to adjust for new inputs or upgrades by placing the same blueprint and changing the number of machines in the calculator and hitting enter.
 
 TLDR2: Hitting enter while the cursor is in the text boxes will automatically calculate and copy the resulting percentage to the clipboard for easy pasting in the game.
 
