@@ -8,7 +8,7 @@ TLDR1: Makes it easy to adjust for new inputs or upgrades by placing the same bl
 
 TLDR2: Hitting enter while the cursor is in the text boxes will automatically calculate and copy the resulting percentage to the clipboard for easy pasting in the game.
 
-TLDR3: Still Less reading than the long version.
+=================================
 
 You can use input or output parts per minute, because you can make changes to machine sets based on either of those.
 
