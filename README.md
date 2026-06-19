@@ -1,8 +1,10 @@
-![Machine Set Calculator v1.3 - Interface Update](https://github.com/Vabbajack-Sandvich/machine-set-calculator-1.3/blob/main/machine-set-calculator-2.png?raw=true)
-
 # Machine Set Calculator v1.3 - Interface Update
 
+![Machine Set Calculator v1.3 - Interface Update](https://github.com/Vabbajack-Sandvich/machine-set-calculator-1.3/blob/main/machine-set-calculator-2.png?raw=true)
+
 https://github.com/Vabbajack-Sandvich/machine-set-calculator-1.3
+
+# =================================
 
 ![Machine Set Calculator v1.2](https://github.com/Vabbajack-Sandvich/Machine-Set-Calculator/blob/main/machine-set-calculator-1.png?raw=true)
 
