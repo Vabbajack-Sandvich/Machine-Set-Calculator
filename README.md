@@ -1,6 +1,12 @@
-![example 1](https://github.com/Vabbajack-Sandvich/Machine-Set-Calculator/blob/main/machine-set-calculator-1.png?raw=true)
+![Machine Set Calculator v1.3 - Interface Update](https://github.com/Vabbajack-Sandvich/machine-set-calculator-1.3/blob/main/machine-set-calculator-2.png?raw=true)
 
-# Machine Set Calculator
+# Machine Set Calculator v1.3 - Interface Update
+
+https://github.com/Vabbajack-Sandvich/machine-set-calculator-1.3
+
+![Machine Set Calculator v1.2](https://github.com/Vabbajack-Sandvich/Machine-Set-Calculator/blob/main/machine-set-calculator-1.png?raw=true)
+
+# Machine Set Calculator v1.2
 
 TLDR0: Sets every machine in the blueprint to 100% efficiency based on input ppm by copy and pasting the same percent in to every machine.
 
